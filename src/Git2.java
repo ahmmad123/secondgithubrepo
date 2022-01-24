@@ -6,6 +6,6 @@ public class Git2 {
              
 	}
 public void methodA(){
-	sysytem.out.println("this is the changes from upstream, upstream means in remote repository");
+	system.out.println("this is the changes from upstream, upstream means in remote repository");
 	
 }
