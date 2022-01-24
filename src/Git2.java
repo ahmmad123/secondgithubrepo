@@ -10,6 +10,6 @@ public void methodA(){
 	
 }
 	public void methodB(){
-		// this is the second method for practice puroses
+		// this is the second method for practice purposes
 	}
 }
