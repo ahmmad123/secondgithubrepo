@@ -9,3 +9,4 @@ public void methodA(){
 	System.out.println("this is the changes from upstream, upstream means in remote repository");
 	
 }
+}
